@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "\"git+https://github.com/teestunna/RESTful-API"
+    "url": "https://github.com/teestunna/RESTful-API.git"
   },
   "keywords": [
     "\"RESTful\""
